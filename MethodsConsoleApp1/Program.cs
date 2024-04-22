@@ -14,8 +14,7 @@
 
             Console.WriteLine("Задание №2");
 
-            SplitTextAndPrint.PrintText(ReversText.ReversWorld(SplitTextAndPrint.SeparationText(inputText)));
-
+            SplitAndReversText.SeparationAndReversText(inputText);
 
 
         }
